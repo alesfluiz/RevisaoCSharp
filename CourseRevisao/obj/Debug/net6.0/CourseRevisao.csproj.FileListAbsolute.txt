@@ -1,0 +1,14 @@
+C:\Users\Alesf\PROJETOS\CourseRevisao\CourseRevisao\bin\Debug\net6.0\CourseRevisao.exe
+C:\Users\Alesf\PROJETOS\CourseRevisao\CourseRevisao\bin\Debug\net6.0\CourseRevisao.deps.json
+C:\Users\Alesf\PROJETOS\CourseRevisao\CourseRevisao\bin\Debug\net6.0\CourseRevisao.runtimeconfig.json
+C:\Users\Alesf\PROJETOS\CourseRevisao\CourseRevisao\bin\Debug\net6.0\CourseRevisao.dll
+C:\Users\Alesf\PROJETOS\CourseRevisao\CourseRevisao\bin\Debug\net6.0\CourseRevisao.pdb
+C:\Users\Alesf\PROJETOS\CourseRevisao\CourseRevisao\obj\Debug\net6.0\CourseRevisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alesf\PROJETOS\CourseRevisao\CourseRevisao\obj\Debug\net6.0\CourseRevisao.AssemblyInfoInputs.cache
+C:\Users\Alesf\PROJETOS\CourseRevisao\CourseRevisao\obj\Debug\net6.0\CourseRevisao.AssemblyInfo.cs
+C:\Users\Alesf\PROJETOS\CourseRevisao\CourseRevisao\obj\Debug\net6.0\CourseRevisao.csproj.CoreCompileInputs.cache
+C:\Users\Alesf\PROJETOS\CourseRevisao\CourseRevisao\obj\Debug\net6.0\CourseRevisao.dll
+C:\Users\Alesf\PROJETOS\CourseRevisao\CourseRevisao\obj\Debug\net6.0\refint\CourseRevisao.dll
+C:\Users\Alesf\PROJETOS\CourseRevisao\CourseRevisao\obj\Debug\net6.0\CourseRevisao.pdb
+C:\Users\Alesf\PROJETOS\CourseRevisao\CourseRevisao\obj\Debug\net6.0\CourseRevisao.genruntimeconfig.cache
+C:\Users\Alesf\PROJETOS\CourseRevisao\CourseRevisao\obj\Debug\net6.0\ref\CourseRevisao.dll
